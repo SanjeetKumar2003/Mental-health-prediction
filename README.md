@@ -1,1 +1,2 @@
 # Mental-health-prediction
+The objective of mental health prediction using machine learning algorithms is to develop accurate and reliable models that can analyse diverse data sources, such as behavioural patterns, biological markers, and environmental factors, to predict an individual's mental health status .These predictive models aim to facilitate early detection, personalized interventions, and improved treatment outcomes, ultimately contributing to enhanced mental well-being and quality of life!.
